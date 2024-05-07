@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url(https://www.thenews.com.pk/assets/uploads/updates/2023-05-27/1074444_9202152_Karachi_updates.jpg);
+  }
+  
+  .countdown-container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+    background-color: rgb(211, 211, 234); ;
+    padding: 20px;
+    border: 1px solid #7c82835b;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .countdown-header {
+    color: #4c5005;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .countdown-timer {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .countdown-unit {
+    display: inline-block;
+    margin: 0
+  }
